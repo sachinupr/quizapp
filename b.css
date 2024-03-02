@@ -1,0 +1,131 @@
+/* 
+#c{
+    font-size:50px;
+    font-family:cursive;
+    color:green;
+    border-radius:50%;
+    margin-left:50%;
+}
+#a{
+    font-size:40px;
+    font-family:cursive;
+    color:blueviolet;
+    border-radius:10%;
+    margin-left:45%;
+}
+#b{
+    font-size:40px;
+    font-family:cursive;
+    color:blueviolet;
+    border-radius:10%;
+    margin-left:40px;
+}
+#d{
+    background-color:skyblue;
+    border-color:black;
+    border-radius:50px;
+    height:100px;
+    width:100px;
+    margin-left:50%;
+    margin-top:50px;
+
+} */
+
+#first
+{
+    margin-left:51%;
+    font-size:40px;
+    color:blueviolet;
+}
+#quiz
+{
+    background-color:skyblue;
+    border-color:black;
+    /* border-radius:50px; */
+    height:400px;
+    width:500px;   
+    margin-left:38%;
+    margin-top:50px;
+    padding-top:20px;
+}
+
+#question 
+{
+    margin-left:50px; 
+    margin-bottom:20px;  
+    background-color:black;
+    height:40px;
+    padding-top:20px;
+    padding-left:10px; 
+    width:390px; 
+    color:white;
+    font-size:20px;
+}
+#opt1
+{
+    background-color:white;
+    border-color:black;
+    height:40px;  
+    width:390px;   
+    margin-left:50px;
+    margin-bottom:20px;
+    padding-top:20px;
+    padding-left:10px;
+    font-size:20px;
+}
+#opt2
+{
+    background-color:white;
+    border-color:black;
+    height:40px;  
+    width:390px;   
+    margin-left:50px;
+    margin-bottom:20px;
+    padding-top:20px;
+    padding-left:10px;
+    font-size:20px;
+}
+#opt3
+{
+    background-color:white;
+    border-color:black;
+    height:40px;  
+    width:390px;   
+    margin-left:50px;
+    margin-bottom:20px;
+    padding-top:20px;
+    padding-left:10px;
+    font-size:20px;
+}
+#opt4
+{
+    background-color:white;
+    border-color:black;
+    height:40px;  
+    width:390px;   
+    margin-left:50px;
+    margin-bottom:20px;
+    padding-top:20px;
+    padding-left:10px;
+    font-size:20px;
+}
+#next
+{
+   margin-left:48%;
+   margin-top:30px;
+   padding:10px;
+   font-family:algerian;
+   font-size:20px;
+   background-color:darkblue;
+   color:white;
+}
+#score
+{
+   margin-left:20px;
+   margin-top:30px;
+   padding:10px;
+   font-family:algerian;
+   font-size:20px;
+   background-color:darkblue;
+   color:white;
+}
